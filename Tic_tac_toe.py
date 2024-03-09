@@ -1,7 +1,7 @@
-"""Program: Game2 (Tic tac toe game with numbers), we will display a board 3x3,
+"""Program: Tic tac toe game with numbers, we will display a board 3x3,
 player1 will take odd numbers and player2 will take even numbers The first player to complete a line
 that adds up to 15 is the winner."""
-# Author: Malak mansour ibrahim ahmed, ID:20230418, section: Not registered yet
+# Author: Malak mansour ibrahim ahmed
 # Version: 1.3
 # Date: 29/2/2024
 
